@@ -2,7 +2,7 @@
   "name": "rap2-delos",
   "version": "2.9.0",
   "repository": {
-    "url": "https://github.com/thx/rap2-delos"
+    "url": "https://github.com/aster-42/mock-server"
   },
   "description": "",
   "main": "dist/dispatch.js",
@@ -24,8 +24,8 @@
     "exit": true,
     "allowUncaught": true
   },
-  "author": "bosn, nuysoft",
-  "license": "ISC",
+  "author": "aster",
+  "license": "MIT",
   "dependencies": {
     "@types/treeify": "^1.0.0",
     "chalk": "^3.0.0",
